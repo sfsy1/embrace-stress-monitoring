@@ -7,5 +7,6 @@ Workflow in summary:
 4. Run emotion analysis
 5. Calculate stress
 
-Shifeng with help from Aini
-Oct 2019
+Shifeng
+<br>*with help from Aini*
+<br>Oct 2019
